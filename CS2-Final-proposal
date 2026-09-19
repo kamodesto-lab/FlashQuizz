@@ -1,0 +1,41 @@
+PROJECT TITLE: 
+FlashQuizz
+
+PROBLEM STAEMENT:
+      As scholars, people expect a lot from us, and because of this, we are often given more advanced lessons and activities.
+With the amount of information we need to learn, many students struggle to keep up with their lessons and prepare for assessments.
+Because of this, students tend to rely on apps that generate reviewers for them since they dont want to waste time making their
+own, however some apps are pretty slow, and even cost money, so not everyone has access to it. 
+
+PROJECT OBJECTIVES:
+• To provide students with an easier and faster way to create study materials.
+• To use AI to generate flashcards and quiz questions from provided learning materials.
+• To allow students to study using different types of quizzes and flashcards.
+• To help students review their lessons and monitor their quiz performance.
+• To reduce the time and effort needed to manually create reviewers. 
+
+PLANNED FEATURES:
+File Upload: Upload PDFs, pictures, or plain text as study sources.
+AI-Generated Flashcards: Automatically creates question-and-answer flashcards from the uploaded materials.
+AI-Generated Quizzes: Creates quizzes based on the provided sources.
+Multiple Quiz Types: Can generate multiple-choice, true/false, identification, and other question types.
+Regenerate Questions: Allows users to create another set of questions from the same source.
+Study Mode: Lets students review generated flashcards and answer questions.
+Score Tracking: Records quiz scores so students can see their progress.
+Save Study Sets: Allows users to save generated flashcards and quizzes for later use. 
+
+PLANNED INPUTS AND OUTPUTS:
+->INPUTS:
+• PDF File/s         
+• Plain Text
+• Picture
+• Settings, such as number and type of questions 
+
+->OUTPUTS:
+• Generated Flashcards
+• Generated Quizz questions
+• Quiz answers/results
+• Quiz scores 
+
+LOGICAL PLAN (flowchart):
+https://drive.google.com/file/d/1nXtpEj49yvjPAXrr7HqzOiL4jAMUrMNb/view?usp=sharing

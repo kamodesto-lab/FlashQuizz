@@ -1,6 +1,4 @@
-# CS2-Draft-proposal
-
-Project Title: FlashQuizz
+#Project Title: FlashQuizz
 
 Description: App that creates flashcards and other tools like quizzes to help students study.
 

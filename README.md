@@ -1,9 +1,7 @@
-# Project Title: FlashQuizz
+# Project Title: LvlUP
 
-Description: As scholars, people expect a lot from us, and because of this, we are often given more advanced lessons and activities.
-With the amount of information we need to learn, many students struggle to keep up with their lessons and prepare for assessments.
-Because of this, students tend to rely on apps that generate reviewers for them since they dont want to waste time making their
-own, however some apps are pretty slow, and even cost money, so not everyone has access to it. We decided to create this as a solution.
+Description: 
+   The Philippine Science High School System (PSHS System) implements a six-year STEM-based curriculum designed to develop students' scientific and technological capabilities, critical thinking, and other essential skills (Philippine Science High School System, n.d.). Within this academic setting, students may have different learning difficulties, study habits, and preferences for reviewing lessons. To examine these experiences among Grade 7 and Grade 8 students of PSHS-EVC, a survey was conducted to identify challenging subjects, factors affecting studying, preferred learning methods, and interest in game-based learning. In the survey, [_ out of _ respondents ([:(]%)] reported that they [survey finding], indicating a learning need that our proposed platform could explore addressing. In response, this project proposes LearnQuest, an experimental supplementary learning platform that incorporates interactive quizzes, game-based challenges, rewards, and progress tracking to make lesson review more engaging. The platform will be evaluated through user testing to assess its functionality, usability, and perceived usefulness as a supplementary learning tool.
 
 Features: 
 File Upload, AI-Generated Flashcards, AI-Generated Quizzes, Multiple Quiz Types, Regenerate Questions, Study Mode, Score Tracking, Save Study Sets
